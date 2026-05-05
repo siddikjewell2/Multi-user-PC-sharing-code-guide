@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# EXE ফাইল (বড় সাইজের জন্য)
+*.exe
+*.pkg
+dist/
+dist_v0.1/
+build/
+RDPClient.exe
+RDPServer.exe
+
+# Logs
+*.log
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyc
+*.pyo
