@@ -1,0 +1,9 @@
+RDP_Project/
+│
+├── server.py           # সার্ভার সাইড (যে PC শেয়ার হবে)
+├── client.py           # ক্লায়েন্ট সাইড (যে PC থেকে কানেক্ট করবে)
+├── config.py           # কনফিগারেশন ফাইল
+├── requirements.txt    # দরকারী লাইব্রেরির লিস্ট
+├── run_server.bat      # সার্ভার চালানোর জন্য (Windows)
+├── run_client.bat      # ক্লায়েন্ট চালানোর জন্য (Windows)
+└── README.md           # ব্যবহার বিধি
